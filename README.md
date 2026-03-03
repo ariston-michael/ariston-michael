@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi 👋 I'm Ariston Michael
 
----
-
 ## 💫 About Me:
 I am a Computer Science student passionate about coding, machine learning, and building real-world applications.
 
