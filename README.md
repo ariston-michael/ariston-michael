@@ -1,51 +1,44 @@
 <!--
-**ariston-michael/ariston-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ariston-michael/ariston-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. // **Top Secret**
 -->
-# Hi 👋 I'm Ariston Michael
+# Hi, I'm Ariston Michael 👋 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
 ## 💫 About Me:
-I am a Computer Science student passionate about coding, machine learning, and building real-world applications.
+- 🎓 **Computer Science @ Sheridan College**
+- 🗺️ Currently exploring **Machine Learning** and **Spring Boot**
+- 🏆 Focused on building high-impact AI solutions
 
----
+## 🛠 Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-## 🚀 What I'm Up To
+### Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
+</p>
 
-- 🤖 Exploring Machine Learning 
-- 💻 Building Spring Boot applications 
+## 🧩 Featured Projects
 
-Check out my coding portfolio! 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ariston-michael=ariston-michaelE&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/10/30/08/32/08-32-05-950_512.gif" width="150" />
+</p>
 
----
+| Project | Description | Stack |
+|---|---|---|
+|  |  | |
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🌐 Connect with Me:
 
 [LinkedIn](https://linkedin.com/in/ariston-michael/)
 
----
-
-## 💻 Tech Stack:
-
-### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Cool+Projects;Always+Learning+New+Things)
