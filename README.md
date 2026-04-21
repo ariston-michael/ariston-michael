@@ -1,7 +1,7 @@
 <!--
 **ariston-michael/ariston-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. // **Top Secret**
 -->
-# Hi, I'm Ariston Michael 👋 
+<h1 align="center">Hi, I'm Ariston Michael 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Product+Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
@@ -13,13 +13,20 @@
 - 🏆 Focused on building high-impact AI solutions
 
 ## 🛠 Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
-### Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
-</p>
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>Tools & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
+    </td>
+  </tr>
+</table>
 
 ## 🧩 Featured Projects
 
@@ -31,20 +38,26 @@
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight" alt="Ariston's GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <table border="0" align="center">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight" alt="Ariston's GitHub Stats" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-
 ## 🤝 Connect with Me
-
-[LinkedIn](https://linkedin.com/in/ariston-michael/)
-
+<a href="https://linkedin.com/in/ariston-michael/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/ariston-michael">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Building+Cool+Projects;Always+Learning+New+Things&multiColor=true" alt="Typing SVG" />
