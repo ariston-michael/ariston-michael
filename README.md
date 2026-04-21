@@ -4,7 +4,7 @@
 # Hi, I'm Ariston Michael 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Product +Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me:
@@ -24,21 +24,36 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/30/08/32/08-32-05-950_512.gif" width="150" />
+  <img src="YOUR_DIRECT_LINK_HERE" width="200" alt="Building Animation" />
 </p>
 
 | Project | Description | Stack |
 |---|---|---|
-|  |  | |
+|  |  |  |
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgef166&show_icons=true&theme=tokyonight" alt="George's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgef166&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-## 🌐 Connect with Me:
+## 🤝 Connect with Me
 
 [LinkedIn](https://linkedin.com/in/ariston-michael/)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Cool+Projects;Always+Learning+New+Things)
+<div align="center">
+  <svg width="600" height="40">
+    <text x="50%" y="30" font-family="Fira Code, monospace" font-size="28" font-weight="600" text-anchor="middle">
+      <tspan fill="#4285F4">C</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">m</tspan><tspan fill="#4285F4">p</tspan><tspan fill="#34A853">u</tspan><tspan fill="#EA4335">t</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#4285F4">r</tspan>
+      &nbsp;
+      <tspan fill="#34A853">S</tspan><tspan fill="#EA4335">c</tspan><tspan fill="#4285F4">i</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#34A853">n</tspan><tspan fill="#EA4335">c</tspan><tspan fill="#4285F4">e</tspan>
+      &nbsp;
+      <tspan fill="#FBBC05">S</tspan><tspan fill="#34A853">t</tspan><tspan fill="#EA4335">u</tspan><tspan fill="#4285F4">d</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#34A853">n</tspan><tspan fill="#EA4335">t</tspan>
+    </text>
+  </svg>
+</div>
