@@ -4,7 +4,7 @@
 # Hi, I'm Ariston Michael 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Product +Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines="Product +Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me:
@@ -23,15 +23,22 @@
 
 ## 🧩 Featured Projects
 
-<p align="center">
-  <img src="YOUR_DIRECT_LINK_HERE" width="200" alt="Building Animation" />
-</p>
-
 | Project | Description | Stack |
 |---|---|---|
 |  |  |  |
+<p align="center">
+  <img src="Pudgy-Build.gif" width="200" alt="Building Animation" />
+</p>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight" alt="Ariston's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 
 ## 🤝 Connect with Me
@@ -39,14 +46,6 @@
 [LinkedIn](https://linkedin.com/in/ariston-michael/)
 
 
-<div align="center">
-  <svg width="600" height="40">
-    <text x="50%" y="30" font-family="Fira Code, monospace" font-size="28" font-weight="600" text-anchor="middle">
-      <tspan fill="#4285F4">C</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">m</tspan><tspan fill="#4285F4">p</tspan><tspan fill="#34A853">u</tspan><tspan fill="#EA4335">t</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#4285F4">r</tspan>
-      &nbsp;
-      <tspan fill="#34A853">S</tspan><tspan fill="#EA4335">c</tspan><tspan fill="#4285F4">i</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#34A853">n</tspan><tspan fill="#EA4335">c</tspan><tspan fill="#4285F4">e</tspan>
-      &nbsp;
-      <tspan fill="#FBBC05">S</tspan><tspan fill="#34A853">t</tspan><tspan fill="#EA4335">u</tspan><tspan fill="#4285F4">d</tspan><tspan fill="#FBBC05">e</tspan><tspan fill="#34A853">n</tspan><tspan fill="#EA4335">t</tspan>
-    </text>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Building+Cool+Projects;Always+Learning+New+Things&multiColor=true" alt="Typing SVG" />
+</p>
