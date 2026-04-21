@@ -33,13 +33,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgef166&show_icons=true&theme=tokyonight" alt="Ariston's GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgef166&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
 
 ## 🤝 Connect with Me
 
