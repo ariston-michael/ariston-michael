@@ -4,7 +4,7 @@
 # Hi, I'm Ariston Michael 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines="Product +Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Product+Engineer;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me:
@@ -24,7 +24,7 @@
 ## 🧩 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
+|----------|----------|----------|
 |  |  |  |
 <p align="center">
   <img src="Pudgy-Build.gif" width="200" alt="Building Animation" />
