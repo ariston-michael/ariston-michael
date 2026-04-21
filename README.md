@@ -13,15 +13,15 @@
 - 🏆 Focused on building high-impact AI solutions
 
 ## 🛠 Tech Stack
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: none;">
       <h3>Languages</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: none;">
       <h3>Tools & Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
     </td>
@@ -39,13 +39,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <table border="0" align="center">
+  <table style="border: none; border-collapse: collapse;" align="center">
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight" alt="Ariston's GitHub Stats" />
+      <td align="center" valign="middle" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight&height=195" alt="Ariston's GitHub Stats" />
       </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+      <td align="center" valign="middle" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight&height=195" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
