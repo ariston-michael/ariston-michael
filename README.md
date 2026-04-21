@@ -9,54 +9,40 @@
 
 ## 💫 About Me:
 - 🎓 **Computer Science @ Sheridan College**
-- 🗺️ Currently exploring **Machine Learning** and **Spring Boot**
+- 🗺️ Currently exploring **Machine Learning** and **System Design**
 - 🏆 Focused on building high-impact AI solutions
 
 ## 🛠 Tech Stack
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td valign="top" width="50%" style="border: none;">
-      <h3>Languages</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <h3>Tools & Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools & Frameworks</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,vscode,spring,react,nodejs,mongodb,postman" />
+</p>
 
 ## 🧩 Featured Projects
 
-| Project | Description | Stack |
+<!--| Project | Description | Stack |
 |----------|----------|----------|
-|  |  |  |
+|  |  |  | -->
 <p align="center">
   <img src="Pudgy-Build.gif" width="200" alt="Building Animation" />
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <table style="border: none; border-collapse: collapse;" align="center">
-    <tr>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight&height=195" alt="Ariston's GitHub Stats" />
-      </td>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight&height=195" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariston-michael&show_icons=true&theme=tokyonight&height=180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariston-michael&layout=compact&theme=tokyonight&height=190" alt="Top Langs" />
 </p>
 
 ## 🤝 Connect with Me
 <a href="https://linkedin.com/in/ariston-michael/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="20" /> Ariston Michael
 </a>
+<br>
 <a href="https://github.com/ariston-michael">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="20" />  @ariston-michael
 </a>
 
 <p align="center">
